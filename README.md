@@ -6,7 +6,6 @@
     - Kubernetes
     - Unity
     - Playfab
-    - 
 - 🌱 I’m currently learning ...
     - Everything i can
 - 👯 I’m using ...
