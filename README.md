@@ -2,13 +2,32 @@
 
 
 - 🔭 I’m currently working on ...
+    - Microsoft Azure
+    - Kubernetes
+    - Unity
+    - Playfab
+    - 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+    - Everything i can
+- 👯 I’m using ...
+    - Microsoft Azure
+    - C#
+    - Unity
+    - Git
+    - Github
+    - Azure Devops
 - 💬 Ask me about ...
+    - Microsoft Azure
+    - Kubernetes
+    - Devops
+    - Unity
+    - Playfab
+    - Azure Devops
+    - Git
+    - Github
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    - @oyuksektepeli
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oyuksektepeli&show_icons=true&theme=radical)
