@@ -16,6 +16,8 @@
     - Git
     - Github
     - Azure Devops
+    - Visual Studio Code
+    - Visual Studio
 - 💬 Ask me about ...
     - Microsoft Azure
     - Kubernetes
@@ -25,6 +27,7 @@
     - Azure Devops
     - Git
     - Github
+    - Visual Studio Code
 - 📫 How to reach me: ...
     - @oyuksektepeli
 
