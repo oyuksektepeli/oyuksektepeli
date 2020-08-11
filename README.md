@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on ...
     - Microsoft Azure
     - Kubernetes
+    - Docker
     - Unity
     - Playfab
 - 🌱 I’m currently learning ...
@@ -21,6 +22,7 @@
 - 💬 Ask me about ...
     - Microsoft Azure
     - Kubernetes
+    - Docker
     - Devops
     - Unity
     - Playfab
