@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on ...
     - Blockchain
     - NFTs
-    - Metaverse
     - Web3
     - Smart Contracts
     - Microsoft Azure
@@ -13,12 +12,16 @@
     - Docker
     - Python
     - Pyhton Notebooks
+    - Data
+    - Artificial Intelligence (AI)
 - 🌱 I’m currently learning ...
     - Everything i can
 - 👯 I’m using ...
+    - Artificial Intelligence (AI)
+    - ChatGPT
+    - OpenAI
     - Microsoft Azure
     - C#
-    - Unity
     - Git
     - Github
     - Azure Devops
@@ -29,16 +32,16 @@
     - Solidity
     - Blockchain
 - 💬 Ask me about ...
+    - Artificial Intelligence (AI)
+    - OpenAI
+    - ChatGPT
     - Blockchain
-    - Metaverse
     - NFTs
     - Smart Contracts
     - Microsoft Azure
     - Kubernetes
     - Docker
     - Devops
-    - Unity
-    - Playfab
     - Azure Devops
     - Git
     - Github
