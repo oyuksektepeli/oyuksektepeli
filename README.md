@@ -3,46 +3,41 @@
 
 
 - 🔭 I’m currently working on ...
-    - Blockchain
-    - NFTs
-    - Web3
-    - Smart Contracts
-    - Microsoft Azure
-    - Kubernetes
-    - Docker
-    - Python
-    - Pyhton Notebooks
-    - Data
     - Artificial Intelligence (AI)
+    - System Design
+    - Infrastructure Development
+    - Software Development
+    - No-code, Low-code Systems
 - 🌱 I’m currently learning ...
     - Everything i can
 - 👯 I’m using ...
     - Artificial Intelligence (AI)
     - ChatGPT
     - OpenAI
+    - Hugging Face
     - Microsoft Azure
-    - C#
+    - AWS
+    - Kubernetes
+    - Runpod
+    - Railway
     - Git
-    - Github
-    - Azure Devops
+    - Github 
     - Visual Studio Code
-    - Visual Studio
     - Python
-    - Python Notebooks
-    - Solidity
+    - Flutter
     - Blockchain
+    - Postgre SQL
 - 💬 Ask me about ...
     - Artificial Intelligence (AI)
     - OpenAI
     - ChatGPT
+    - Developer Tooling
+    - Application Modernization
     - Blockchain
-    - NFTs
-    - Smart Contracts
-    - Microsoft Azure
     - Kubernetes
     - Docker
     - Devops
-    - Azure Devops
+    - Open Source
     - Git
     - Github
     - Visual Studio Code
