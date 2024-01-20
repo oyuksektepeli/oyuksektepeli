@@ -1,4 +1,4 @@
-### Onur Yüksektepeli - Chief Technology Solutions Architect 👋
+### Onur Yüksektepeli - Chief Architect 👋
 
 
 
